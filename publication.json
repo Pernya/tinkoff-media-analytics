@@ -1,0 +1,17 @@
+{
+  "source_notebook": "Tinkoff Media-analysis.ipynb",
+  "source_sha256": "443a4a24e946f5b8166677bbc3f0b1d34b5a2cdd32ebd06c2b7c15eb3889a424",
+  "publication_date": "2026-11-06",
+  "original_cells": 69,
+  "original_executed_code_cells": 64,
+  "original_unexecuted_code_cells": 0,
+  "fresh_end_to_end_execution": false,
+  "validation": "nbformat schema, transformed IPython code syntax, Python AST, Orange XML where present",
+  "publication_changes": [
+    "Current-kernel pip magic",
+    "Optional Colab imports and Drive mount",
+    "External spreadsheet creation replaced with local display",
+    "Raw previews and progress outputs removed; aggregate charts retained",
+    "Research execution limitations documented"
+  ]
+}
